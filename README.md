@@ -1,6 +1,6 @@
 # Kaggle Competitions Portfolio
 
-![Kaggle Competitions](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123)
+![Kaggle Competitions](https://zeeshanusmani.com/wp-content/uploads/2019/10/Kaggle3.png)
 
 ## About Kaggle Competitions
 Kaggle competitions are data science challenges that provide real-world datasets to solve interesting problems. It's a platform to showcase your data science skills and learn from the community.
@@ -18,4 +18,4 @@ You can find the code for each competition in the respective folders. Feel free 
 
 **Note:** Scores and descriptions may change as new competitions are completed.
 
-##Let's delve into Data Analysis with Kaggle!
+## Let's delve into Data Analysis with Kaggle!
